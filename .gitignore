@@ -6,6 +6,5 @@ desktop.ini
 .vscode/
 .idea/
 
-# Local dev servers / logs
-.claude/
+# Local logs
 *.log

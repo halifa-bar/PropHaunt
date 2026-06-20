@@ -1,7 +1,6 @@
 # PropHaunt — Design System
 
-Generated with the `ui-ux-pro-max` skill (gaming / horror / immersive) and tuned to
-the game's real brand. Use this as the source of truth when adding pages or sections.
+The PropHaunt brand + design language — the source of truth when adding pages or sections.
 
 ## Direction
 - **Pattern:** Scroll-triggered storytelling — sections build intensity, CTA repeats at the end.
