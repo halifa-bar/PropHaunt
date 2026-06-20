@@ -58,8 +58,7 @@ When you get a domain later, point it at whichever host you picked.
 
 ## Notes
 
-- Colors / fonts were generated with the `ui-ux-pro-max` skill and tuned to the game's
-  real brand (blood-red killer, carnival gold, eerie purple). See `DESIGN.md`.
+- Colors / fonts follow the game's brand (blood-red killer, carnival gold, eerie purple). See `DESIGN.md`.
 - Respects `prefers-reduced-motion`, uses semantic HTML, SVG icons (no emoji), and
   AA-contrast text.
 - Survivor/killer ability names match the in-game loadouts.

@@ -21,7 +21,7 @@ The PropHaunt brand + design language — the source of truth when adding pages 
 | `--amber` / `--amber-2` | `#FFC23D` / `#FFD86B` | **carnival gold, highlights, "hope"** |
 | `--purple` | `#8B5CF6` | eerie atmospheric glow only |
 
-> The skill's raw suggestion was neon-purple + rose. It was re-weighted toward the game's
+> The initial palette leaned neon-purple + rose; it was re-weighted toward the game's
 > existing identity: blood-red (the in-game killer color) + carnival gold (the in-game
 > yellow accent), with purple kept as background atmosphere.
 
@@ -39,7 +39,7 @@ The PropHaunt brand + design language — the source of truth when adding pages 
 6. **Finale CTA** — repeat Request Access + Wishlist.
 7. **Footer**.
 
-## Rules to keep (from the skill's checklist)
+## Rules to keep
 - SVG icons only — no emoji as icons.
 - `cursor-pointer` + visible focus rings on all interactive elements.
 - Hover transitions 150–300ms.
